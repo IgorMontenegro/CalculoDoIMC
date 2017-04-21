@@ -15,7 +15,10 @@ ou
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:9090/lab-dw-2017-1` em qualquer navegador.
+Acesse `http://localhost:9090/exercicio em qualquer navegador.
+
+Digite o peso em kg (Exemplo: 70), a altura com ponto (Exemplo: 1.73) e escolha o sexo.
+Ao clicar em calcular, será aberta uma caixa de alerta com o resultado do calculo do IMC.
 
 ## Como o projeto foi construído
 

@@ -5,9 +5,9 @@
   
   <modelVersion>4.0.0</modelVersion>
   
-  <groupId>CalculoDoIMCComJSP</groupId>
+  <groupId>exercicio</groupId>
   <version>0.0.1-SNAPSHOT</version>
-  <artifactId>CalculoDoIMCComJSP</artifactId>
+  <artifactId>exercicio</artifactId>
   <!-- Para aplicação web "standard" (JEE).-->
   <packaging>war</packaging>
   
@@ -31,7 +31,7 @@
   </dependencies>
   
   <build>
-    <finalName>CalculoDoIMCComJSP</finalName>
+    <finalName>exercicio</finalName>
 	<plugins>
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
